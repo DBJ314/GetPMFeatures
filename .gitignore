@@ -1,0 +1,8 @@
+.DS_Store
+*.dmg
+makeout*
+GetPMFeatures.c.x*
+GetPMFeatures
+GetPMFeatures.idump
+GetPMFeatures.rdump
+BuildImage*
